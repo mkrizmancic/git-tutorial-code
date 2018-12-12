@@ -1,2 +1,6 @@
 cpp/build/
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> 46de95a4da7a5329a85a734a9e17954d5866a63b
